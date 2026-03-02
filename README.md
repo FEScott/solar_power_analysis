@@ -1,6 +1,9 @@
 # Solar Power Plant Analysis
 
-Analysis of real-world solar power generation data from two solar installations in India to identify production patterns, weather dependencies, and equipment performance.
+Analysis of real-world solar power generation data from two solar installations in India to identify production patterns, weather dependencies, and equipment 
+performance.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO-NAME/blob/main/YOUR-NOTEBOOK-NAME.ipynb)
 
 ## Project Overview
 
